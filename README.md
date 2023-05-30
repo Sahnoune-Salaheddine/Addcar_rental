@@ -39,7 +39,7 @@ Star UML
 
 ## How to run the application
 
-git clone 
+git clone https://github.com/Sahnoune-Salaheddine/Addcar_rental.git
 
 ## Author
 SAHNOUNE: salah.sahnoune.7@gmail.com
